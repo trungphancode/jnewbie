@@ -1,1 +1,1 @@
-# jnewbie
+# Java for newbie
